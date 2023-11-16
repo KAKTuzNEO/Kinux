@@ -1,2 +1,2 @@
-# Kinux
-Kinux is not Linux
+# Kinux is not Linux
+Kinux - это проект одного школьника начавший разработку своей системы ради прикола
